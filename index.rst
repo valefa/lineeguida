@@ -27,7 +27,6 @@ I principi base sono raggruppati per i seguenti aspetti principali.
 
 .. toctree::
    :numbered:
-   :numbered:
    
    docs/struttura-dei-contenuti.rst
    docs/proprieta-del-documento.rst
