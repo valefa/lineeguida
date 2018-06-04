@@ -24,3 +24,10 @@ testo di tipo proprietario o Open, nonché su fogli di calcolo e
 programmi di presentazioni.
 
 I principi base sono raggruppati per i seguenti aspetti principali.
+
+.. toctree::
+   :numbered:
+   :numbered:
+   
+   docs/struttura-dei-contenuti.rst
+   docs/proprieta-del-documento.rst
